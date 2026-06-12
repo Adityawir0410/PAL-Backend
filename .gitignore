@@ -1,5 +1,6 @@
 node_modules/
 .env
+*.pem
 .env.local
 .env.production
 .env.development
